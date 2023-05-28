@@ -7,6 +7,7 @@
 SBT is essential to build and run this code.
 ## Setup
 Clone this repo using git clone command.
+
 ```bash
 git clone <repo url>
 cd Shopping-basket
